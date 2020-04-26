@@ -1,0 +1,30 @@
+h1{
+  font-family: 'Ink free';
+  font-size: 50px;
+  text-align: center;
+}
+.art{
+  margin: auto;
+}
+td{
+
+  background-color: black;
+  height: 300px;
+  width: 100px;
+  border: 6px solid white ;
+}
+#one{
+  background-color:#680065;
+}
+#two{
+  background-color:#E100AA;
+}
+#three{
+  background-color:#FE0072;
+}
+#four{
+  background-color:#FE040D;
+}
+#five{
+  background-color:#FE2546;
+}
